@@ -1,0 +1,16 @@
+*.bat
+.env
+.env.*
+*.key
+*.pem
+*token*
+*secret*
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+logs/
+*.tmp
+temp/
